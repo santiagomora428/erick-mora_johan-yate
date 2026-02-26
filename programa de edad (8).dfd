@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+"ingrese su edad para determinar el acceso al programa"
+5
+1
+4
+edad
+7
+0
+1
+8
+edad>=18
+4
+1
+17
+"no tiene acceso"
+13
+4
+1
+26
+"tiene acceso al programa"
+13
+1
