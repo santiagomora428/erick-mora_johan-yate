@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+"ingrese sus dos numeros"
+5
+1
+6
+v1, v2
+7
+0
+1
+5
+v1>v2
+7
+0
+1
+5
+v1=v2
+4
+1
+23
+v2, "es mayor que ", v1
+13
+4
+1
+28
+v2, " y ", v1, "son iguales"
+13
+13
+4
+1
+24
+v1, " es mayor que ", v2
+13
+1
